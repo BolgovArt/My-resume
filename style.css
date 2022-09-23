@@ -1,0 +1,28 @@
+body {
+    background: #202020;
+    color:#ffffff;
+}
+
+h2 {
+    color:red
+}
+
+.first {
+    background:#423621;
+    padding: 1px;
+    margin-bottom: 10px;
+}
+
+.first h1 {
+    background: #f6ffd9;
+    color:black
+}
+
+.first h3 {
+    background: #f6ffd9;
+    color:black
+}
+
+#second, .third {
+    color:yellow;
+}
